@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<jdbcUrl>jdbc:sqlserver://127.0.0.1:1433;databaseName=KG_DevArea
+	</jdbcUrl>
+	<ftpHost>127.0.0.1</ftpHost>
+	<ftpPort>21</ftpPort>
+	<paths>
+		<path>d:/</path>
+		<path>e:/</path>
+		<path>H:/新建文件夹 (2)</path>
+	</paths>
+</config>

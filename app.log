@@ -1,0 +1,3 @@
+2016-12-05 17:01:41,594 - com.megalight.view.LoginFrm -0    [AWT-EventQueue-0] INFO  com.megalight.view.LoginFrm  - loginSuccess - 张楠2
+2016-12-05 17:01:58,558 - com.megalight.view.LoginFrm -0    [AWT-EventQueue-0] INFO  com.megalight.view.LoginFrm  - [user:陈林]-loginfailed
+2016-12-05 17:02:00,635 - com.megalight.view.LoginFrm -2077 [AWT-EventQueue-0] INFO  com.megalight.view.LoginFrm  - loginSuccess - 陈林3
